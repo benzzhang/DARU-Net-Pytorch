@@ -1,0 +1,3 @@
+attention unet 39s/epoch
+unet           14s/epoch 
+daru           14s/epoch
